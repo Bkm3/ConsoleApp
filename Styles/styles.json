@@ -1,0 +1,40 @@
+{
+"console": {
+"clasic": {
+"bg_console": "black",
+"text_console": "white",
+"underlined_console": 0,
+"bold_console": 0,
+"text_info": "green",
+"bold_info": 0,
+"bg_info": "black",
+"underlined_info": 0,
+"text_err": "red",
+"bold_err": 0,
+"bg_err": "black",
+"underlined_err": 0,
+"underlined_title": 1,
+"bg_title": "white",
+"text_title": "black",
+"bold_title": 0,
+"bg_line1": "dark_gray",
+"text_line1": "white",
+"bold_line1": 0,
+"underlined_line1": 1,
+"bg_line2": "light_gray",
+"text_line2": "black",
+"bold_line2": 0,
+"underlined_line2": 1
+}
+},
+"ide": {
+"clasic": {
+"console": "console",
+"info": "STRING",
+"err": "stderr",
+"title": "KEYWORD",
+"line1": "BUILTIN",
+"line2": "DEFINITION"
+}
+}
+}

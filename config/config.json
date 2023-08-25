@@ -1,0 +1,13 @@
+{
+"title_app": "ContactsApp",
+"console_width": 130,
+"console_height": 40,
+"buffer_cols": 150,
+"buffer_lines": 9001,
+"style_path": ".\\Styles\\styles.json",
+"style": "clasic",
+"table_path": ".\\MyContacts.txt",
+"RAM": true,
+"separator": " | ",
+"page_size": 10
+}
